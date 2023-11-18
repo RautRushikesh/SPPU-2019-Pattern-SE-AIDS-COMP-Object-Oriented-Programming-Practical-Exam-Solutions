@@ -7,7 +7,7 @@ using namespace std;    // Using the standard namespace.
 class InventoryItem   // Definition of the InventoryItem class.
 {
 public:
-    char itemName[10];   // Data member to store the name of the item.
+    char itemName[100];   // Data member to store the name of the item.
     int itemQuantity;    // Data member to store the quantity of the item.
     int itemCost;        // Data member to store the cost of the item.
     int itemCode;        // Data member to store the code of the item.
