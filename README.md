@@ -1,4 +1,4 @@
-# SPPU-2019-Pattern-SE-AIDS-COMP-Object-Oriented-Programming-Practicals
+# SPPU-2019-Pattern-SE-AIDS-COMP-Object-Oriented-Programming-Practical-Exam-Solutions
 
 Group A :
 
@@ -16,6 +16,8 @@ Experiment No. 5 : Write a function template for selection sort that inputs, sor
 
 Group C :
 
-Experiment No. 6 : Write C++ program using STL for sorting and searching user defined records such as Item records (Item code, name, cost, quantity etc) using vector container.
+Experiment No. 6a : Write C++ program using STL for sorting and searching user defined records such as personal records (Name, DOB, Telephone number etc) using vector container.
+
+Experiment No. 6b : Write C++ program using STL for sorting and searching user defined records such as Item records (Item code, name, cost, quantity etc) using vector container.
 
 Experiment No. 7 : Write a program in C++ to use map associative container. The keys will be the names of states and the values will be the populations of the states. When the program runs, the user is prompted to type the name of a state. The program then looks in the map, using the state name as an index and returns the population of the state.
